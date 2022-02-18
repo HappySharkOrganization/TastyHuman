@@ -1,1 +1,1 @@
-{"title":"GenerateFileC","name":"generateFileC","environmentVariables":[]}
+{"title":"GenerateFileC","name":"generateFileC","environmentVariables":[],"parameters":["--filename","a.out","--filesize","1024"],"id":0}

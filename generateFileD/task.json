@@ -1,1 +1,1 @@
-{"title":"generateFileD","name":"generateFileD","environmentVariables":[]}
+{"title":"GenerateFileD","name":"generateFileD","environmentVariables":[],"parameters":["--filename","a.out","--filesize","1024"],"id":0}
