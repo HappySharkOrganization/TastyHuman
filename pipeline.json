@@ -1,7 +1,1 @@
-{
-  "version" : 0.1,
-  "globalEnvironmentVariables" : [
-  ],
-  "tasks" : [
-  ]
-}
+{"version":0.1,"globalEnvironmentVariables":[],"tasks":[{"task":"generateFileA","dependsOn":[],"location":{"x":268,"y":312}},{"task":"generateFileB","dependsOn":["generateFileA"],"location":{"x":636,"y":170}},{"task":"generateFileC","dependsOn":["generateFileA"],"location":{"x":634,"y":461}},{"task":"generateFileD","dependsOn":["generateFileC","generateFileB"],"location":{"x":998,"y":315}}]}
